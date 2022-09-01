@@ -1,0 +1,145 @@
+[2022/05/27 15:29:34] - [logging.py] - INFO: 输入dcy01378776
+[2022/05/27 15:29:34] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/05/27 15:29:34] - [logging.py] - INFO: 输入op94857op
+[2022/05/27 15:29:34] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/05/27 15:29:34] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/05/27 15:29:35] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/05/27 15:29:35] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/05/27 15:29:38] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/05/27 15:29:43] - [logging.py] - ERROR: 制度中心登录失败
+[2022/05/27 15:29:58] - [logging.py] - INFO: 输入dcy01378776
+[2022/05/27 15:29:58] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/05/27 15:29:59] - [logging.py] - INFO: 输入op94857op
+[2022/05/27 15:29:59] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/05/27 15:29:59] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/05/27 15:29:59] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/05/27 15:29:59] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/05/27 15:30:07] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/05/27 15:30:07] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/05/27 15:30:07] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/05/27 15:30:07] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/05/27 15:30:08] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/05/27 15:30:08] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/05/27 15:30:11] - [logging.py] - INFO: 输入自动化2022-05-27 15:29:17
+[2022/05/27 15:30:11] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/05/27 15:30:11] - [logging.py] - INFO: 输入002022-05-27 15:29:17
+[2022/05/27 15:30:11] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/05/27 15:30:11] - [logging.py] - INFO: 输入阿x巴x
+[2022/05/27 15:30:11] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:30:14] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/05/27 15:30:14] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/05/27 15:30:15] - [logging.py] - INFO: 输入虚拟组织
+[2022/05/27 15:30:15] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:30:18] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/05/27 15:30:18] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/05/27 15:30:18] - [logging.py] - INFO: 输入阿里云客服
+[2022/05/27 15:30:18] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:30:21] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[7]/div/ul/li/div/span')进行点击
+[2022/05/27 15:30:21] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[7]/div/ul/li/div/span')成功
+[2022/05/27 15:30:21] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/05/27 15:30:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/05/27 15:30:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='128']/div/div/div")进行点击
+[2022/05/27 15:30:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='128']/div/div/div")成功
+[2022/05/27 15:30:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/05/27 15:30:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/05/27 15:30:25] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/05/27 15:30:25] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/05/27 15:30:25] - [logging.py] - INFO: 输入WB01378776
+[2022/05/27 15:30:25] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:30:29] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/05/27 15:30:29] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/05/27 15:30:29] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/05/27 15:30:29] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/05/27 15:30:29] - [logging.py] - INFO: 输入2022-05-27
+[2022/05/27 15:30:29] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/05/27 15:30:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:30:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:30:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:30:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:30:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:30:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:30:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:30:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:30:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]/span[1]/input")进行点击
+[2022/05/27 15:30:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]/span[1]/input")成功
+[2022/05/27 15:30:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/05/27 15:30:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/05/27 15:30:35] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/05/27 15:30:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/05/27 15:30:39] - [logging.py] - INFO: 进入框架3oTR73MXpnE-frame成功
+[2022/05/27 15:30:39] - [logging.py] - ERROR: 进入框架失败：Message: 3oTR73MXpnE-frame
+
+[2022/05/27 15:30:39] - [logging.py] - ERROR: 进入发布制度失败Message: 3oTR73MXpnE-frame
+
+[2022/05/27 15:47:47] - [logging.py] - INFO: 输入dcy01378776
+[2022/05/27 15:47:47] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/05/27 15:47:48] - [logging.py] - INFO: 输入op94857op
+[2022/05/27 15:47:48] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/05/27 15:47:48] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/05/27 15:47:48] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/05/27 15:47:48] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/05/27 15:47:53] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/05/27 15:47:55] - [logging.py] - ERROR: 制度中心登录失败
+[2022/05/27 15:48:13] - [logging.py] - INFO: 输入dcy01378776
+[2022/05/27 15:48:13] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/05/27 15:48:13] - [logging.py] - INFO: 输入op94857op
+[2022/05/27 15:48:13] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/05/27 15:48:13] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/05/27 15:48:13] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/05/27 15:48:13] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/05/27 15:48:21] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/05/27 15:48:21] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/05/27 15:48:21] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/05/27 15:48:21] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/05/27 15:48:22] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/05/27 15:48:22] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/05/27 15:48:25] - [logging.py] - INFO: 输入自动化2022-05-27 15:47:34
+[2022/05/27 15:48:25] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/05/27 15:48:25] - [logging.py] - INFO: 输入002022-05-27 15:47:34
+[2022/05/27 15:48:25] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/05/27 15:48:26] - [logging.py] - INFO: 输入阿x巴x
+[2022/05/27 15:48:26] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:48:29] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/05/27 15:48:29] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/05/27 15:48:29] - [logging.py] - INFO: 输入虚拟组织
+[2022/05/27 15:48:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:48:32] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/05/27 15:48:32] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/05/27 15:48:32] - [logging.py] - INFO: 输入阿里云客服
+[2022/05/27 15:48:32] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:48:35] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[7]/div/ul/li/div/span')进行点击
+[2022/05/27 15:48:35] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[7]/div/ul/li/div/span')成功
+[2022/05/27 15:48:35] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/05/27 15:48:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/05/27 15:48:39] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='128']/div/div/div")进行点击
+[2022/05/27 15:48:39] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='128']/div/div/div")成功
+[2022/05/27 15:48:39] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/05/27 15:48:39] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/05/27 15:48:39] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/05/27 15:48:39] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/05/27 15:48:39] - [logging.py] - INFO: 输入WB01378776
+[2022/05/27 15:48:39] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/05/27 15:48:43] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/05/27 15:48:43] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/05/27 15:48:43] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/05/27 15:48:43] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/05/27 15:48:43] - [logging.py] - INFO: 输入2022-05-27
+[2022/05/27 15:48:43] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]/span[1]/input")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]/span[1]/input")成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]/span[1]/input")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]/span[1]/input")成功
+[2022/05/27 15:48:44] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/05/27 15:48:44] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/05/27 15:48:49] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/05/27 15:48:49] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/05/27 15:48:53] - [logging.py] - ERROR: 进入框架失败：Message: 3oZZci5MMMe-frame
+
+[2022/05/27 15:48:53] - [logging.py] - ERROR: 进入发布制度失败Message: 3oZZci5MMMe-frame
+

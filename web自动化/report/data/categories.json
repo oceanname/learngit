@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.TimeoutException: Message: \nStacktrace:\nBacktrace:\n\tOrdinal0 [0x00FFD953+2414931]\n\tOrdinal0 [0x00F8F5E1+1963489]\n\tOrdinal0 [0x00E7C6B8+837304]\n\tOrdinal0 [0x00EA9500+1021184]\n\tOrdinal0 [0x00EA979B+1021851]\n\tOrdinal0 [0x00ED6502+1205506]\n\tOrdinal0 [0x00EC44E4+1131748]\n\tOrdinal0 [0x00ED4812+1198098]\n\tOrdinal0 [0x00EC42B6+1131190]\n\tOrdinal0 [0x00E9E860+976992]\n\tOrdinal0 [0x00E9F756+980822]\n\tGetHandleVerifier [0x0126CC62+2510274]\n\tGetHandleVerifier [0x0125F760+2455744]\n\tGetHandleVerifier [0x0108EABA+551962]\n\tGetHandleVerifier [0x0108D916+547446]\n\tOrdinal0 [0x00F95F3B+1990459]\n\tOrdinal0 [0x00F9A898+2009240]\n\tOrdinal0 [0x00F9A985+2009477]\n\tOrdinal0 [0x00FA3AD1+2046673]\n\tBaseThreadInitThunk [0x74E10419+25]\n\tRtlGetAppContainerNamedObjectPath [0x770D72FD+237]\n\tRtlGetAppContainerNamedObjectPath [0x770D72CD+189]",
+      "children" : [ {
+        "name" : "发布制度",
+        "uid" : "613d00e5917473d1",
+        "parentUid" : "aec1bd8003a821511474a3c21c851cbd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655350916895,
+          "stop" : 1655350965206,
+          "duration" : 48311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': 'dcy01378776', 'pawd': 'op94857op', 'biaoti': '自动化', 'bianhao': '00', 'organization': '阿x巴x', 'group': '虚拟组织', 'people': '阿里云客服', 'liaison': 'WB01378776', 'ceshi': '测试', 'file_path': 'D:\\\\图片\\\\鼠.jpg'}" ]
+      } ],
+      "uid" : "aec1bd8003a821511474a3c21c851cbd"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

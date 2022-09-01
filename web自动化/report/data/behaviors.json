@@ -1,0 +1,51 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "制度中心的web自动化",
+    "children" : [ {
+      "name" : "登录制度中心",
+      "children" : [ {
+        "name" : "正确登录制度中心",
+        "uid" : "46d70a1660edf7b0",
+        "parentUid" : "9a86aad71f3ad237caed68e8201c4197",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655350893463,
+          "stop" : 1655350916888,
+          "duration" : 23425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a86aad71f3ad237caed68e8201c4197"
+    }, {
+      "name" : "发布制度流程",
+      "children" : [ {
+        "name" : "发布制度",
+        "uid" : "613d00e5917473d1",
+        "parentUid" : "614ba9b2f51629e763925cf4c255acf8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655350916895,
+          "stop" : 1655350965206,
+          "duration" : 48311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': 'dcy01378776', 'pawd': 'op94857op', 'biaoti': '自动化', 'bianhao': '00', 'organization': '阿x巴x', 'group': '虚拟组织', 'people': '阿里云客服', 'liaison': 'WB01378776', 'ceshi': '测试', 'file_path': 'D:\\\\图片\\\\鼠.jpg'}" ]
+      } ],
+      "uid" : "614ba9b2f51629e763925cf4c255acf8"
+    } ],
+    "uid" : "ea42244ced93e5efdfb201134ba45444"
+  } ]
+}

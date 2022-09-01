@@ -1,0 +1,795 @@
+[2022/07/22 16:33:45] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 16:33:45] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 16:33:45] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 16:33:45] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 16:33:45] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 16:33:45] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 16:33:45] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 16:33:45] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 16:33:45] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 16:33:45] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 16:33:54] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 16:33:54] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 16:33:58] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 16:33:58] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 16:33:58] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 16:33:58] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 16:33:58] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 16:33:58] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 16:33:58] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 16:34:01] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 16:33:36
+[2022/07/22 16:34:01] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 16:34:01] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 16:34:01] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 16:33:36
+[2022/07/22 16:34:01] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 16:34:01] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 16:34:01] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 16:34:01] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:34:01] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:34:04] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 16:34:04] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 16:34:05] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 16:34:05] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 16:34:05] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:34:05] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:34:08] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 16:34:08] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 16:34:08] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 16:34:08] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 16:34:08] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:34:08] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:34:12] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 16:34:12] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 16:34:12] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 16:34:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 16:34:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 16:34:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 16:34:15] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 16:34:15] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 16:34:15] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 16:34:15] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 16:34:15] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 16:34:15] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 16:34:15] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 16:34:15] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 16:34:16] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 16:34:16] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 16:34:16] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:34:16] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:34:20] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 16:34:20] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 16:34:20] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 16:34:20] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 16:34:20] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 16:34:20] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 16:34:20] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 16:34:20] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 16:34:20] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 16:34:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 16:34:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 16:34:23] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 16:34:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 16:34:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 16:34:23] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 16:34:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 16:34:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 16:34:23] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 16:34:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 16:34:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 16:34:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 16:34:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 16:34:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 16:34:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 16:34:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:34:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:34:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:34:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:34:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:34:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:34:32] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 16:34:32] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.02秒
+[2022/07/22 16:34:32] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 16:34:32] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:34:32] - [logging.py] - INFO: 找到元素('xpath', '/html/body')进行点击
+[2022/07/22 16:34:32] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:34:32] - [logging.py] - INFO: 清除元素('xpath', '/html/body')的文本内容成功
+[2022/07/22 16:34:32] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 16:34:32] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 16:34:32] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:34:32] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 16:34:35] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:34:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:34:35] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:34:49] - [logging.py] - ERROR: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见失败
+[2022/07/22 16:34:49] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")，无法点击
+[2022/07/22 16:37:50] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 16:37:50] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 16:37:50] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 16:37:50] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 16:37:50] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 16:37:50] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 16:37:50] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 16:37:50] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 16:37:50] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 16:37:50] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 16:37:58] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 16:37:58] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 16:37:58] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 16:37:58] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 16:37:58] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 16:37:59] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 16:37:59] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 16:37:59] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 16:37:59] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 16:38:02] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 16:37:42
+[2022/07/22 16:38:02] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 16:38:02] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 16:38:02] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 16:37:42
+[2022/07/22 16:38:02] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 16:38:02] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 16:38:03] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 16:38:03] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:38:03] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:38:06] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 16:38:06] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 16:38:06] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 16:38:06] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 16:38:06] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:38:06] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:38:09] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 16:38:09] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 16:38:09] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 16:38:09] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 16:38:09] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:38:09] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:38:12] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 16:38:12] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 16:38:12] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 16:38:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 16:38:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 16:38:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 16:38:15] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 16:38:15] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 16:38:16] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 16:38:16] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 16:38:16] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 16:38:16] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 16:38:16] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 16:38:16] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 16:38:16] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 16:38:16] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 16:38:16] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:38:16] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:38:20] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 16:38:20] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 16:38:20] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 16:38:20] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 16:38:20] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 16:38:20] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 16:38:20] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 16:38:20] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 16:38:20] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 16:38:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 16:38:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 16:38:23] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 16:38:23] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 16:38:23] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 16:38:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 16:38:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 16:38:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 16:38:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 16:38:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 16:38:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 16:38:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 16:38:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 16:38:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 16:38:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 16:38:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:38:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:38:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:38:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:38:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:38:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:38:33] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 16:38:33] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.02秒
+[2022/07/22 16:38:33] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 16:38:33] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:38:33] - [logging.py] - INFO: 找到元素('xpath', '/html/body')进行点击
+[2022/07/22 16:38:33] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:38:33] - [logging.py] - INFO: 清除元素('xpath', '/html/body')的文本内容成功
+[2022/07/22 16:38:33] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 16:38:33] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 16:38:33] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:38:33] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 16:38:36] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:38:36] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:38:36] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:38:49] - [logging.py] - ERROR: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见失败
+[2022/07/22 16:38:49] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")，无法点击
+[2022/07/22 16:40:06] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 16:40:06] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 16:40:06] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 16:40:06] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 16:40:06] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 16:40:06] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 16:40:06] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 16:40:06] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 16:40:06] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 16:40:06] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 16:40:14] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 16:40:14] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 16:40:14] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 16:40:14] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 16:40:14] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 16:40:15] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 16:40:15] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 16:40:15] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 16:40:15] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 16:40:18] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 16:39:56
+[2022/07/22 16:40:18] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 16:40:18] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 16:40:18] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 16:39:56
+[2022/07/22 16:40:18] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 16:40:18] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 16:40:18] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 16:40:18] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:40:18] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:40:22] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 16:40:22] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 16:40:22] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 16:40:22] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 16:40:22] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:40:22] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:40:25] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 16:40:25] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 16:40:25] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 16:40:25] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 16:40:25] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:40:25] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:40:28] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 16:40:28] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 16:40:28] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 16:40:28] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 16:40:28] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 16:40:28] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 16:40:31] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 16:40:31] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 16:40:31] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 16:40:31] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 16:40:32] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 16:40:32] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 16:40:32] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 16:40:32] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 16:40:32] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 16:40:32] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 16:40:32] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 16:40:32] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 16:40:36] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 16:40:36] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 16:40:36] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 16:40:36] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 16:40:36] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 16:40:36] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 16:40:36] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 16:40:36] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 16:40:36] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 16:40:39] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 16:40:39] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 16:40:39] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 16:40:39] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 16:40:39] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 16:40:40] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 16:40:40] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 16:40:40] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 16:40:40] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 16:40:40] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 16:40:40] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 16:40:40] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 16:40:40] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 16:40:40] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 16:40:40] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 16:40:40] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:40:40] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:40:40] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:40:45] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:40:45] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:40:46] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:40:49] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 16:40:49] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.03秒
+[2022/07/22 16:40:49] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 16:40:49] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 16:40:49] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 16:40:49] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 16:40:52] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:40:52] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:40:52] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:40:55] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见
+[2022/07/22 16:40:55] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")成功
+[2022/07/22 16:40:55] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")进行点击
+[2022/07/22 16:40:55] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 16:40:55] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 16:40:55] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 16:40:55] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")可见
+[2022/07/22 16:40:55] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")成功
+[2022/07/22 16:40:55] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")进行点击
+[2022/07/22 16:40:55] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")中输入内容：FAQ的问题1
+[2022/07/22 16:41:06] - [logging.py] - ERROR: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")可见失败
+[2022/07/22 16:41:06] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")元素，无法输入FAQ的问题1
+[2022/07/22 18:47:08] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 18:47:08] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 18:47:08] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 18:47:08] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 18:47:08] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 18:47:08] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 18:47:08] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 18:47:08] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 18:47:08] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 18:47:09] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 18:47:17] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 18:47:17] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 18:47:17] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 18:47:17] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 18:47:17] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 18:47:17] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 18:47:17] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 18:47:17] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 18:47:17] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 18:47:20] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 18:46:55
+[2022/07/22 18:47:20] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 18:47:20] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 18:47:21] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 18:46:55
+[2022/07/22 18:47:21] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 18:47:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 18:47:21] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 18:47:21] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:47:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:47:24] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 18:47:24] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 18:47:24] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 18:47:24] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 18:47:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:47:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:47:27] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 18:47:27] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 18:47:27] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 18:47:27] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 18:47:27] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:47:27] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:47:30] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 18:47:30] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 18:47:30] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 18:47:31] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 18:47:31] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 18:47:31] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 18:47:34] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 18:47:34] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 18:47:34] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 18:47:34] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 18:47:34] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 18:47:34] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 18:47:34] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 18:47:34] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 18:47:34] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 18:47:34] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 18:47:34] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:47:34] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:47:38] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 18:47:38] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 18:47:38] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 18:47:38] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 18:47:38] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 18:47:38] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 18:47:38] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 18:47:38] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 18:47:38] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 18:47:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:47:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:47:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:47:47] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:47:47] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:47:48] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:47:51] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 18:47:51] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.02秒
+[2022/07/22 18:47:51] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 18:47:51] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 18:47:51] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 18:47:51] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 18:47:54] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:47:54] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:47:54] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:47:57] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见
+[2022/07/22 18:47:57] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")成功
+[2022/07/22 18:47:57] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")进行点击
+[2022/07/22 18:48:00] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:48:00] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:48:00] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:48:01] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")可见
+[2022/07/22 18:48:01] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")成功
+[2022/07/22 18:48:01] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")进行点击
+[2022/07/22 18:48:01] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")中输入内容：FAQ的问题1
+[2022/07/22 18:48:01] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")可见
+[2022/07/22 18:48:01] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")成功
+[2022/07/22 18:48:01] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")元素，无法输入FAQ的问题1
+[2022/07/22 18:50:55] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 18:50:55] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 18:50:55] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 18:50:55] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 18:50:55] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 18:50:55] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 18:50:56] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 18:50:56] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 18:50:56] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 18:50:56] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 18:51:04] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 18:51:04] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 18:51:04] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 18:51:04] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 18:51:04] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 18:51:05] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 18:51:05] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 18:51:05] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 18:51:05] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 18:51:08] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 18:50:46
+[2022/07/22 18:51:08] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 18:51:08] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 18:51:08] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 18:50:46
+[2022/07/22 18:51:08] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 18:51:08] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 18:51:08] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 18:51:08] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:51:08] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:51:11] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 18:51:11] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 18:51:11] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 18:51:11] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 18:51:11] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:51:11] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:51:15] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 18:51:15] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 18:51:15] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 18:51:15] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 18:51:15] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:51:15] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:51:18] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 18:51:18] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 18:51:18] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 18:51:18] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 18:51:18] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 18:51:18] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 18:51:21] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 18:51:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 18:51:21] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 18:51:21] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 18:51:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 18:51:21] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 18:51:21] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 18:51:21] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 18:51:21] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 18:51:21] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 18:51:21] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:51:21] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:51:26] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 18:51:26] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 18:51:26] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 18:51:26] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 18:51:26] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 18:51:26] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 18:51:26] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 18:51:26] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 18:51:26] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 18:51:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 18:51:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 18:51:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 18:51:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 18:51:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 18:51:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 18:51:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 18:51:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 18:51:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 18:51:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 18:51:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 18:51:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 18:51:30] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 18:51:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 18:51:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 18:51:30] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:51:30] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:51:30] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:51:35] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:51:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:51:35] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:51:38] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 18:51:38] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.02秒
+[2022/07/22 18:51:38] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 18:51:38] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 18:51:38] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 18:51:38] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 18:51:41] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:51:41] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:51:41] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:51:46] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见
+[2022/07/22 18:51:46] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")成功
+[2022/07/22 18:51:46] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")进行点击
+[2022/07/22 18:51:59] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:51:59] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:52:00] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:52:00] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")可见
+[2022/07/22 18:52:00] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")成功
+[2022/07/22 18:52:00] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button/span")进行点击
+[2022/07/22 18:52:00] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")中输入内容：FAQ的问题1
+[2022/07/22 18:52:00] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")可见
+[2022/07/22 18:52:00] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")成功
+[2022/07/22 18:52:00] - [logging.py] - ERROR: 定位元素Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea"}
+  (Session info: chrome=103.0.5060.114)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x003BD953+2414931]
+	Ordinal0 [0x0034F5E1+1963489]
+	Ordinal0 [0x0023C6B8+837304]
+	Ordinal0 [0x00269500+1021184]
+	Ordinal0 [0x0026979B+1021851]
+	Ordinal0 [0x00296502+1205506]
+	Ordinal0 [0x002844E4+1131748]
+	Ordinal0 [0x00294812+1198098]
+	Ordinal0 [0x002842B6+1131190]
+	Ordinal0 [0x0025E860+976992]
+	Ordinal0 [0x0025F756+980822]
+	GetHandleVerifier [0x0062CC62+2510274]
+	GetHandleVerifier [0x0061F760+2455744]
+	GetHandleVerifier [0x0044EABA+551962]
+	GetHandleVerifier [0x0044D916+547446]
+	Ordinal0 [0x00355F3B+1990459]
+	Ordinal0 [0x0035A898+2009240]
+	Ordinal0 [0x0035A985+2009477]
+	Ordinal0 [0x00363AD1+2046673]
+	BaseThreadInitThunk [0x74C60419+25]
+	RtlGetAppContainerNamedObjectPath [0x772E72FD+237]
+	RtlGetAppContainerNamedObjectPath [0x772E72CD+189]
+失败
+[2022/07/22 18:52:00] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")元素，无法输入FAQ的问题1
+[2022/07/22 18:57:22] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 18:57:22] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 18:57:22] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 18:57:22] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 18:57:22] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 18:57:22] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 18:57:22] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 18:57:23] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 18:57:23] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 18:57:23] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 18:57:31] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 18:57:31] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 18:57:31] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 18:57:31] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 18:57:31] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 18:57:31] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 18:57:31] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 18:57:31] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 18:57:31] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 18:57:34] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 18:57:14
+[2022/07/22 18:57:34] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 18:57:34] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 18:57:35] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 18:57:14
+[2022/07/22 18:57:35] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 18:57:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 18:57:35] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 18:57:35] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:57:35] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:57:38] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 18:57:38] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 18:57:38] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 18:57:38] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 18:57:38] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:57:38] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:57:41] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 18:57:41] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 18:57:41] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 18:57:41] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 18:57:41] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:57:41] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:57:45] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 18:57:45] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 18:57:45] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 18:57:45] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 18:57:45] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 18:57:45] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 18:57:48] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 18:57:48] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 18:57:48] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 18:57:48] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 18:57:48] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 18:57:48] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 18:57:48] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 18:57:48] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 18:57:48] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 18:57:48] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 18:57:48] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 18:57:48] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 18:57:52] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 18:57:52] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 18:57:52] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 18:57:52] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 18:57:52] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 18:57:53] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 18:57:53] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 18:57:53] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 18:57:53] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 18:57:56] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 18:57:56] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:57:56] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:57:57] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:58:02] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:58:02] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:58:02] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:58:05] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 18:58:05] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.02秒
+[2022/07/22 18:58:05] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 18:58:05] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 18:58:05] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 18:58:05] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 18:58:08] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:58:08] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:58:08] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:58:13] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见
+[2022/07/22 18:58:13] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")成功
+[2022/07/22 18:58:13] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")进行点击
+[2022/07/22 18:58:26] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 18:58:26] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 18:58:26] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 18:58:27] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")可见
+[2022/07/22 18:58:27] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")成功
+[2022/07/22 18:58:27] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")进行点击
+[2022/07/22 18:58:27] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")中输入内容：FAQ的问题1
+[2022/07/22 18:58:27] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")可见
+[2022/07/22 18:58:27] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")成功
+[2022/07/22 18:58:27] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")元素，无法输入FAQ的问题1
+[2022/07/22 19:00:38] - [logging.py] - INFO: 在元素('xpath', "//input[@id='account']")中输入内容：dcy01378776
+[2022/07/22 19:00:38] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='account']")可见
+[2022/07/22 19:00:38] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='account']")成功
+[2022/07/22 19:00:38] - [logging.py] - INFO: 在元素('xpath', "//input[@id='password']")中输入内容：op94857op
+[2022/07/22 19:00:38] - [logging.py] - INFO: 等待元素('xpath', "//input[@id='password']")可见
+[2022/07/22 19:00:38] - [logging.py] - INFO: 定位元素('xpath', "//input[@id='password']")成功
+[2022/07/22 19:00:38] - [logging.py] - INFO: 浏览器放大至全屏
+[2022/07/22 19:00:38] - [logging.py] - INFO: 等待元素('xpath', "//button[@type='submit']")可见
+[2022/07/22 19:00:38] - [logging.py] - INFO: 定位元素('xpath', "//button[@type='submit']")成功
+[2022/07/22 19:00:38] - [logging.py] - INFO: 找到元素('xpath', "//button[@type='submit']")进行点击
+[2022/07/22 19:00:46] - [logging.py] - INFO: 等待元素('xpath', "//*[text()='我知道了']")可见
+[2022/07/22 19:00:46] - [logging.py] - INFO: 定位元素('xpath', "//*[text()='我知道了']")成功
+[2022/07/22 19:00:46] - [logging.py] - INFO: 找到元素('xpath', "//*[text()='我知道了']")进行点击
+[2022/07/22 19:00:46] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')可见
+[2022/07/22 19:00:46] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')成功
+[2022/07/22 19:00:47] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[1]/div/div[1]/div[3]/div[2]/div[2]')进行点击
+[2022/07/22 19:00:47] - [logging.py] - INFO: 等待元素('link text', '发布制度')可见
+[2022/07/22 19:00:47] - [logging.py] - INFO: 定位元素('link text', '发布制度')成功
+[2022/07/22 19:00:47] - [logging.py] - INFO: 找到元素('link text', '发布制度')进行点击
+[2022/07/22 19:00:50] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")中输入内容：自动化2022-07-22 19:00:29
+[2022/07/22 19:00:50] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")可见
+[2022/07/22 19:00:50] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.title']/span/input")成功
+[2022/07/22 19:00:50] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")中输入内容：002022-07-22 19:00:29
+[2022/07/22 19:00:50] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")可见
+[2022/07/22 19:00:50] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.code']/span/input")成功
+[2022/07/22 19:00:51] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")中输入内容：阿x巴x
+[2022/07/22 19:00:51] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 19:00:51] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.belongToBu']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 19:00:54] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[5]/div/ul/li/div/span')可见
+[2022/07/22 19:00:54] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[5]/div/ul/li/div/span')成功
+[2022/07/22 19:00:54] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[5]/div/ul/li/div/span')进行点击
+[2022/07/22 19:00:54] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")中输入内容：虚拟组织
+[2022/07/22 19:00:54] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 19:00:54] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.scopePartitionList']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 19:00:57] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[6]/div/ul/li/div/span')可见
+[2022/07/22 19:00:57] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[6]/div/ul/li/div/span')成功
+[2022/07/22 19:00:57] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[6]/div/ul/li/div/span')进行点击
+[2022/07/22 19:00:57] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")中输入内容：阿
+[2022/07/22 19:00:57] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 19:00:57] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.coreUserGroup']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 19:01:00] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='阿x集x(Corp)']")可见
+[2022/07/22 19:01:00] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='阿x集x(Corp)']")成功
+[2022/07/22 19:01:00] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='阿x集x(Corp)']")进行点击
+[2022/07/22 19:01:00] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")可见
+[2022/07/22 19:01:00] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")成功
+[2022/07/22 19:01:00] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.categorySecondId']/span/span[1]/span[2]/span/i")进行点击
+[2022/07/22 19:01:03] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='153']/div/div/div")可见
+[2022/07/22 19:01:03] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='153']/div/div/div")成功
+[2022/07/22 19:01:04] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='153']/div/div/div")进行点击
+[2022/07/22 19:01:04] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")可见
+[2022/07/22 19:01:04] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")成功
+[2022/07/22 19:01:04] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.levelSecond']/span/span[1]/span[2]/span[1]/i")进行点击
+[2022/07/22 19:01:04] - [logging.py] - INFO: 等待元素('xpath', "//span[text()='管理制度']")可见
+[2022/07/22 19:01:04] - [logging.py] - INFO: 定位元素('xpath', "//span[text()='管理制度']")成功
+[2022/07/22 19:01:04] - [logging.py] - INFO: 找到元素('xpath', "//span[text()='管理制度']")进行点击
+[2022/07/22 19:01:04] - [logging.py] - INFO: 在元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")中输入内容：WB01378776
+[2022/07/22 19:01:04] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")可见
+[2022/07/22 19:01:04] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.ownerUserId']/span/span[1]/span[1]/span/input")成功
+[2022/07/22 19:01:08] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')可见
+[2022/07/22 19:01:08] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')成功
+[2022/07/22 19:01:08] - [logging.py] - INFO: 找到元素('xpath', '/html/body/div[8]/div/ul/li/div/span/div')进行点击
+[2022/07/22 19:01:08] - [logging.py] - INFO: 等待元素('xpath', "//input[@placeholder='请选择日期']")可见
+[2022/07/22 19:01:08] - [logging.py] - INFO: 定位元素('xpath', "//input[@placeholder='请选择日期']")成功
+[2022/07/22 19:01:08] - [logging.py] - INFO: 找到元素('xpath', "//input[@placeholder='请选择日期']")进行点击
+[2022/07/22 19:01:08] - [logging.py] - INFO: 在元素('xpath', '/html/body/div[9]/div/div[1]/span/input')中输入内容：2022-07-22
+[2022/07/22 19:01:08] - [logging.py] - INFO: 等待元素('xpath', '/html/body/div[9]/div/div[1]/span/input')可见
+[2022/07/22 19:01:08] - [logging.py] - INFO: 定位元素('xpath', '/html/body/div[9]/div/div[1]/span/input')成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.hasInterestRelation']/div[2]/label[1]")进行点击
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isWbVisible']/div[2]/label[1]")进行点击
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isDownload']/div[2]/label[2]")进行点击
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isInvolvedCompliance']/div[2]/label[1]")进行点击
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='baseInfo.NO_NAME_FIELD_$0.NO_NAME_FIELD_$1.isOfflineApproved']/div[2]/label[2]")进行点击
+[2022/07/22 19:01:12] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 19:01:12] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 19:01:12] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 19:01:17] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 19:01:17] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 19:01:18] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 19:01:21] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换
+[2022/07/22 19:01:21] - [logging.py] - INFO: 根据元素<('xpath', "//iframe[@class='e_iframe whale-editor-iframe']")>进行iframe切换，等待时间：0.03秒
+[2022/07/22 19:01:21] - [logging.py] - INFO: 在元素('xpath', '/html/body')中输入内容：测试后进行回车
+[2022/07/22 19:01:21] - [logging.py] - INFO: 等待元素('xpath', '/html/body')可见
+[2022/07/22 19:01:21] - [logging.py] - INFO: 定位元素('xpath', '/html/body')成功
+[2022/07/22 19:01:21] - [logging.py] - INFO: 退出框架成功
+[2022/07/22 19:01:24] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 19:01:24] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 19:01:24] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 19:01:29] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")可见
+[2022/07/22 19:01:29] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")成功
+[2022/07/22 19:01:29] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.attachments']/div[2]/div/div/button/span")进行点击
+[2022/07/22 19:01:42] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 19:01:42] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 19:01:42] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 19:01:45] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")可见
+[2022/07/22 19:01:45] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")成功
+[2022/07/22 19:01:45] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs']/div[2]/div[2]/button")进行点击
+[2022/07/22 19:01:45] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")中输入内容：FAQ的问题1
+[2022/07/22 19:01:45] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")可见
+[2022/07/22 19:01:45] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.question']/span/textarea")成功
+[2022/07/22 19:01:45] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.answer']/span/textarea")中输入内容：FAQ的回答1
+[2022/07/22 19:01:45] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.answer']/span/textarea")可见
+[2022/07/22 19:01:45] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.faqs.0.answer']/span/textarea")成功
+[2022/07/22 19:01:46] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")可见
+[2022/07/22 19:01:46] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")成功
+[2022/07/22 19:01:46] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='whale-page']/div[2]/div/button[2]/span")进行点击
+[2022/07/22 19:01:46] - [logging.py] - INFO: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.flows']/div[2]/div[2]/button/span")可见
+[2022/07/22 19:01:46] - [logging.py] - INFO: 定位元素('xpath', "//*[@id='NO_NAME_FIELD_$0.flows']/div[2]/div[2]/button/span")成功
+[2022/07/22 19:01:46] - [logging.py] - INFO: 找到元素('xpath', "//*[@id='NO_NAME_FIELD_$0.flows']/div[2]/div[2]/button/span")进行点击
+[2022/07/22 19:01:46] - [logging.py] - INFO: 在元素('xpath', "//*[@id='NO_NAME_FIELD_$0.flows.0.flowName']/span/input")中输入内容：测试123
+[2022/07/22 19:01:56] - [logging.py] - ERROR: 等待元素('xpath', "//*[@id='NO_NAME_FIELD_$0.flows.0.flowName']/span/input")可见失败
+[2022/07/22 19:01:57] - [logging.py] - ERROR: 查找不到('xpath', "//*[@id='NO_NAME_FIELD_$0.flows.0.flowName']/span/input")元素，无法输入测试123

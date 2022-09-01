@@ -1,0 +1,47 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-3MUV1EI",
+    "children" : [ {
+      "name" : "10432-MainThread",
+      "children" : [ {
+        "name" : "发布制度",
+        "uid" : "613d00e5917473d1",
+        "parentUid" : "b5915d8bc8aed3f51f3b1c5b5c6c8062",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655350916895,
+          "stop" : 1655350965206,
+          "duration" : 48311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "{'name': 'dcy01378776', 'pawd': 'op94857op', 'biaoti': '自动化', 'bianhao': '00', 'organization': '阿x巴x', 'group': '虚拟组织', 'people': '阿里云客服', 'liaison': 'WB01378776', 'ceshi': '测试', 'file_path': 'D:\\\\图片\\\\鼠.jpg'}" ]
+      }, {
+        "name" : "正确登录制度中心",
+        "uid" : "46d70a1660edf7b0",
+        "parentUid" : "b5915d8bc8aed3f51f3b1c5b5c6c8062",
+        "status" : "passed",
+        "time" : {
+          "start" : 1655350893463,
+          "stop" : 1655350916888,
+          "duration" : 23425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5915d8bc8aed3f51f3b1c5b5c6c8062"
+    } ],
+    "uid" : "cc734785283d1ab726e67591aedd5d22"
+  } ]
+}

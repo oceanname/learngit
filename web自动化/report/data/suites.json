@@ -1,0 +1,51 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_case",
+    "children" : [ {
+      "name" : "test_systemcenter",
+      "children" : [ {
+        "name" : "Test_system",
+        "children" : [ {
+          "name" : "正确登录制度中心",
+          "uid" : "46d70a1660edf7b0",
+          "parentUid" : "042aa579630030616ee6fefafb9c7c64",
+          "status" : "passed",
+          "time" : {
+            "start" : 1655350893463,
+            "stop" : 1655350916888,
+            "duration" : 23425
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "发布制度",
+          "uid" : "613d00e5917473d1",
+          "parentUid" : "042aa579630030616ee6fefafb9c7c64",
+          "status" : "broken",
+          "time" : {
+            "start" : 1655350916895,
+            "stop" : 1655350965206,
+            "duration" : 48311
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ "{'name': 'dcy01378776', 'pawd': 'op94857op', 'biaoti': '自动化', 'bianhao': '00', 'organization': '阿x巴x', 'group': '虚拟组织', 'people': '阿里云客服', 'liaison': 'WB01378776', 'ceshi': '测试', 'file_path': 'D:\\\\图片\\\\鼠.jpg'}" ]
+        } ],
+        "uid" : "042aa579630030616ee6fefafb9c7c64"
+      } ],
+      "uid" : "572662abb9a3603488239ed782ef99a6"
+    } ],
+    "uid" : "86abcc46617c603d802c3e378b13740e"
+  } ]
+}

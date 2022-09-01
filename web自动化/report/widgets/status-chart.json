@@ -1,0 +1,21 @@
+[ {
+  "uid" : "46d70a1660edf7b0",
+  "name" : "正确登录制度中心",
+  "time" : {
+    "start" : 1655350893463,
+    "stop" : 1655350916888,
+    "duration" : 23425
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "613d00e5917473d1",
+  "name" : "发布制度",
+  "time" : {
+    "start" : 1655350916895,
+    "stop" : 1655350965206,
+    "duration" : 48311
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
